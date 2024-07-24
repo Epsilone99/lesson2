@@ -1,0 +1,15 @@
+D:\Programs\Practice\Task2\bin\Debug\net7.0\Task2.exe
+D:\Programs\Practice\Task2\bin\Debug\net7.0\Task2.deps.json
+D:\Programs\Practice\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+D:\Programs\Practice\Task2\bin\Debug\net7.0\Task2.dll
+D:\Programs\Practice\Task2\bin\Debug\net7.0\Task2.pdb
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.csproj.AssemblyReference.cache
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.dll
+D:\Programs\Practice\Task2\obj\Debug\net7.0\refint\Task2.dll
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.pdb
+D:\Programs\Practice\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+D:\Programs\Practice\Task2\obj\Debug\net7.0\ref\Task2.dll
